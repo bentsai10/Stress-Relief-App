@@ -29,7 +29,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="u12-lX-PyH">
-                                <rect key="frame" x="61" y="411" width="198" height="30"/>
+                                <rect key="frame" x="58.5" y="411" width="203" height="30"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J4D-Pt-bR2">
                                         <rect key="frame" x="0.0" y="0.0" width="92" height="30"/>
@@ -39,8 +39,8 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Snw-FU-fgd">
-                                        <rect key="frame" x="122" y="0.0" width="76" height="30"/>
-                                        <state key="normal" title="Take Photo"/>
+                                        <rect key="frame" x="122" y="0.0" width="81" height="30"/>
+                                        <state key="normal" title="Take Photo!"/>
                                         <connections>
                                             <action selector="cameraPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="I13-BC-WRV"/>
                                         </connections>

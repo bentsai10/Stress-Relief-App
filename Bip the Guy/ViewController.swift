@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var imageToPunch: UIImageView!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
