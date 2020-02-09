@@ -68,7 +68,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     //MARK: ACTIONS
     @IBAction func libraryPressed(_ sender: UIButton) {
         imagePicker.sourceType = .photoLibrary
-        
+
         imagePicker.delegate = self
         
         present(imagePicker, animated: true, completion: nil)
