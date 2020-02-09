@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         UIView.animate(withDuration: 0.25, delay: 0.0, usingSpringWithDamping: 0.2, initialSpringVelocity: 10, options: [], animations: {self.imageToPunch.bounds = bounds}, completion: nil)
         
     }
+    
     func playSound(name:String){
         if let sound = NSDataAsset(name: name){
             do{
