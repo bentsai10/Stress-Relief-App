@@ -24,7 +24,7 @@ Tap the screen rapidly to punch whoever you want! (Disclaimer: Bip the Guy only 
   <li>If you're a Belieber or you want to take out your stress on someone else, use the photo library to upload a new photo.</li>
   <br>
   <p align = "center"><kbd><img src = "/images/photo_library.gif" height = "500"></kbd></p>
-  <li>If you're even more daring, take a picture of your target to use! Be sure to use a device with a camera! (Simulator on mac does not have camera, so you will have to try it for yourself!)</li>
+  <li>If you're even more daring, take a picture of your target to use! Be sure to use a device with a camera! (Simulator on mac does not have camera, so you will have to try it for yourself on your own iPhone!)</li>
   <p align = "center"><kbd><img src = "/images/camera.gif" height = "500"></kbd></p>
 </ol>
 <h3>The Logic Behind the Bipping</h3>
@@ -33,7 +33,7 @@ Tap the screen rapidly to punch whoever you want! (Disclaimer: Bip the Guy only 
   <ul>
     <li>playSound function takes a string parameter for name of sound file, and uses that parameter to create an NSDataAsset called "sound"</li>
     <li>Create an AVAudioPlayer with the data, or in this case sound, associated with "sound"</li>
-    <li>Play that sound!</li>
+    <li>Play that sound stored in that AVAudioPlayer!</li>
     <li>If an error occurs, the programmer will be notified through console error messages</li>
   </ul>
   
