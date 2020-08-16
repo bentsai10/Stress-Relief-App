@@ -1,7 +1,7 @@
 # Stress-Relief-App
 Instead of punching the wall, Bip the Guy allows you to release your anger digitally!
 
-Tap the screen rapidly to punch whoever you want! (Disclaimer: Bip the Guy only allows you to punch a picture of your intended target. We do not encourage physical violence. Solely digital violence.)
+Tap the screen rapidly to punch whoever you want! (Disclaimer: Bip the Guy only allows you to punch a picture of your intended target. We do not encourage physical violence. Solely fake digital violence.)
 
 <p align = "center"><kbd><img src = "/images/app_start.png" height = "400"></kbd></p>
 
